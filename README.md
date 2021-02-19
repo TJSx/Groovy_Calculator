@@ -1,5 +1,5 @@
-# VidMob_Calculator
- VidMob take home exercise
+# Groovy_Calculator
+ Calculator done in Groovy with the eclipse ide
 
 ## to run:
 1. use any ide that has groovy available on it (used: eclipse with groovy addon)
